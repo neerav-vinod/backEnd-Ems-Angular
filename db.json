@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Aromal Suresh",
+      "email": "admin@example.com",
+      "active": "1",
+      "password": "admin"
+    },
+    {
+      "id": "2",
+      "name": "Alwin",
+      "email": "alwin@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "3",
+      "name": "Neerav",
+      "email": "neerav@gmail.com",
+      "active": "0"
+    },
+    {
+      "id": "4",
+      "name": "Fayaz",
+      "email": "fayaz@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "5",
+      "name": "Sachin",
+      "email": "sachin@gmail.com",
+      "active": "0"
+    }
+  ]
+}
